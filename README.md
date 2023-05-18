@@ -5,6 +5,6 @@
 Deve pegar esse código aplicar as seguintes instruções:
 
 - CSS (seja criativo)
-- Pegar o Conteudo do Console(JavaScripty) e adicionar em algum conteudo dentro do HTML
+- Pegar o Conteudo do Console(JavaScript) e adicionar em algum conteudo dentro do HTML
 </p>
 
